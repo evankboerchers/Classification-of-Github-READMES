@@ -1,0 +1,269 @@
+section_id,file_id,url,heading_markdown,local_readme_file,heading_level
+1,1,https://github.com/adamstac/jquery-qt-controller,# jQuery QT Controller 0.9.1,adamstac.jquery-qt-controller.md,1
+2,1,https://github.com/adamstac/jquery-qt-controller,## Function,adamstac.jquery-qt-controller.md,2
+3,1,https://github.com/adamstac/jquery-qt-controller,## Compatibility,adamstac.jquery-qt-controller.md,2
+4,1,https://github.com/adamstac/jquery-qt-controller,## Licensing,adamstac.jquery-qt-controller.md,2
+1,2,https://github.com/asweigart/PythonStdioGames,# PythonStdioGames,asweigart.PythonStdioGames.md,1
+2,2,https://github.com/asweigart/PythonStdioGames,"# I Just Found This Web Page, How Do I Play These Games?",asweigart.PythonStdioGames.md,1
+3,2,https://github.com/asweigart/PythonStdioGames,# About this Collection,asweigart.PythonStdioGames.md,1
+4,2,https://github.com/asweigart/PythonStdioGames,# Additional Guidelines,asweigart.PythonStdioGames.md,1
+5,2,https://github.com/asweigart/PythonStdioGames,# Completed Programs in This Collection,asweigart.PythonStdioGames.md,1
+1,3,https://github.com/AwesomesauceLabs/piglet-viewer,# Table of Contents,AwesomesauceLabs.piglet-viewer.md,1
+2,3,https://github.com/AwesomesauceLabs/piglet-viewer,# Description,AwesomesauceLabs.piglet-viewer.md,1
+3,3,https://github.com/AwesomesauceLabs/piglet-viewer,# Live Demo,AwesomesauceLabs.piglet-viewer.md,1
+4,3,https://github.com/AwesomesauceLabs/piglet-viewer,# Build Instructions,AwesomesauceLabs.piglet-viewer.md,1
+5,3,https://github.com/AwesomesauceLabs/piglet-viewer,## Unity Project Setup,AwesomesauceLabs.piglet-viewer.md,2
+6,3,https://github.com/AwesomesauceLabs/piglet-viewer,## Android Build Instructions,AwesomesauceLabs.piglet-viewer.md,2
+7,3,https://github.com/AwesomesauceLabs/piglet-viewer,## WebGL Build Instructions,AwesomesauceLabs.piglet-viewer.md,2
+8,3,https://github.com/AwesomesauceLabs/piglet-viewer,## Windows Build Instructions,AwesomesauceLabs.piglet-viewer.md,2
+9,3,https://github.com/AwesomesauceLabs/piglet-viewer,## Navigating the Source Code,AwesomesauceLabs.piglet-viewer.md,2
+10,3,https://github.com/AwesomesauceLabs/piglet-viewer,# Licenses and Attributions,AwesomesauceLabs.piglet-viewer.md,1
+11,3,https://github.com/AwesomesauceLabs/piglet-viewer,# Footnotes,AwesomesauceLabs.piglet-viewer.md,1
+1,4,https://github.com/bio/qTip2,# [qTip<sup>2</sup>](http://craigsworks.com/projects/qtip2/) - Pretty powerful tooltips,bio.qTip2.md,1
+2,4,https://github.com/bio/qTip2,## Browser support,bio.qTip2.md,2
+3,4,https://github.com/bio/qTip2,## Getting qTip<sup>2</sup>,bio.qTip2.md,2
+4,4,https://github.com/bio/qTip2,### Stable releases,bio.qTip2.md,3
+5,4,https://github.com/bio/qTip2,### Bleeding edge,bio.qTip2.md,3
+6,4,https://github.com/bio/qTip2,### Custom builds,bio.qTip2.md,3
+7,4,https://github.com/bio/qTip2,## Installation,bio.qTip2.md,2
+8,4,https://github.com/bio/qTip2,## Questions or problems?,bio.qTip2.md,2
+9,4,https://github.com/bio/qTip2,## Special thanks,bio.qTip2.md,2
+1,5,https://github.com/bradtraversy/design-resources-for-developers,#### Please read [`contributing guidelines`](./contributing.md) before submitting new resources.,bradtraversy.design-resources-for-developers.md,4
+2,5,https://github.com/bradtraversy/design-resources-for-developers,## Table of Contents,bradtraversy.design-resources-for-developers.md,2
+3,5,https://github.com/bradtraversy/design-resources-for-developers,## UI Graphics,bradtraversy.design-resources-for-developers.md,2
+4,5,https://github.com/bradtraversy/design-resources-for-developers,## Fonts,bradtraversy.design-resources-for-developers.md,2
+5,5,https://github.com/bradtraversy/design-resources-for-developers,## Colors,bradtraversy.design-resources-for-developers.md,2
+6,5,https://github.com/bradtraversy/design-resources-for-developers,## Icons,bradtraversy.design-resources-for-developers.md,2
+7,5,https://github.com/bradtraversy/design-resources-for-developers,## Logos,bradtraversy.design-resources-for-developers.md,2
+8,5,https://github.com/bradtraversy/design-resources-for-developers,## Favicons,bradtraversy.design-resources-for-developers.md,2
+9,5,https://github.com/bradtraversy/design-resources-for-developers,## Icon Fonts,bradtraversy.design-resources-for-developers.md,2
+10,5,https://github.com/bradtraversy/design-resources-for-developers,## Stock Photos,bradtraversy.design-resources-for-developers.md,2
+11,5,https://github.com/bradtraversy/design-resources-for-developers,## Stock Videos,bradtraversy.design-resources-for-developers.md,2
+12,5,https://github.com/bradtraversy/design-resources-for-developers,## Stock Music & Sound Effects,bradtraversy.design-resources-for-developers.md,2
+13,5,https://github.com/bradtraversy/design-resources-for-developers,## Vectors & Clip Art,bradtraversy.design-resources-for-developers.md,2
+14,5,https://github.com/bradtraversy/design-resources-for-developers,## Product & Image Mockups,bradtraversy.design-resources-for-developers.md,2
+15,5,https://github.com/bradtraversy/design-resources-for-developers,## HTML & CSS Templates,bradtraversy.design-resources-for-developers.md,2
+16,5,https://github.com/bradtraversy/design-resources-for-developers,## CSS Frameworks,bradtraversy.design-resources-for-developers.md,2
+17,5,https://github.com/bradtraversy/design-resources-for-developers,## CSS Methodologies,bradtraversy.design-resources-for-developers.md,2
+18,5,https://github.com/bradtraversy/design-resources-for-developers,## CSS Animations,bradtraversy.design-resources-for-developers.md,2
+19,5,https://github.com/bradtraversy/design-resources-for-developers,## Javascript Animation Libraries,bradtraversy.design-resources-for-developers.md,2
+20,5,https://github.com/bradtraversy/design-resources-for-developers,## UI Components & Kits,bradtraversy.design-resources-for-developers.md,2
+21,5,https://github.com/bradtraversy/design-resources-for-developers,## React UI,bradtraversy.design-resources-for-developers.md,2
+22,5,https://github.com/bradtraversy/design-resources-for-developers,## Vue UI,bradtraversy.design-resources-for-developers.md,2
+23,5,https://github.com/bradtraversy/design-resources-for-developers,## Angular UI,bradtraversy.design-resources-for-developers.md,2
+24,5,https://github.com/bradtraversy/design-resources-for-developers,## Svelte UI,bradtraversy.design-resources-for-developers.md,2
+25,5,https://github.com/bradtraversy/design-resources-for-developers,## Design Systems & Style Guides,bradtraversy.design-resources-for-developers.md,2
+26,5,https://github.com/bradtraversy/design-resources-for-developers,## Online Design Tools,bradtraversy.design-resources-for-developers.md,2
+27,5,https://github.com/bradtraversy/design-resources-for-developers,## Downloadable Design Software,bradtraversy.design-resources-for-developers.md,2
+28,5,https://github.com/bradtraversy/design-resources-for-developers,## Design Inspiration,bradtraversy.design-resources-for-developers.md,2
+29,5,https://github.com/bradtraversy/design-resources-for-developers,## Image Compression,bradtraversy.design-resources-for-developers.md,2
+30,5,https://github.com/bradtraversy/design-resources-for-developers,## Chrome Extensions,bradtraversy.design-resources-for-developers.md,2
+31,5,https://github.com/bradtraversy/design-resources-for-developers,## Others,bradtraversy.design-resources-for-developers.md,2
+1,6,https://github.com/ChoCheolKi/jquery,# [jQuery](http://jquery.com/) - New Wave JavaScript,ChoCheolKi.jquery.md,1
+2,6,https://github.com/ChoCheolKi/jquery,## Contribution Guides,ChoCheolKi.jquery.md,2
+3,6,https://github.com/ChoCheolKi/jquery,## Environments in which to use jQuery,ChoCheolKi.jquery.md,2
+4,6,https://github.com/ChoCheolKi/jquery,## What you need to build your own jQuery,ChoCheolKi.jquery.md,2
+5,6,https://github.com/ChoCheolKi/jquery,## How to build your own jQuery,ChoCheolKi.jquery.md,2
+6,6,https://github.com/ChoCheolKi/jquery,### Modules,ChoCheolKi.jquery.md,3
+7,6,https://github.com/ChoCheolKi/jquery,##### AMD name,ChoCheolKi.jquery.md,5
+8,6,https://github.com/ChoCheolKi/jquery,#### Custom Build Examples,ChoCheolKi.jquery.md,4
+9,6,https://github.com/ChoCheolKi/jquery,## Running the Unit Tests,ChoCheolKi.jquery.md,2
+10,6,https://github.com/ChoCheolKi/jquery,## Building to a different directory,ChoCheolKi.jquery.md,2
+11,6,https://github.com/ChoCheolKi/jquery,## Essential Git,ChoCheolKi.jquery.md,2
+12,6,https://github.com/ChoCheolKi/jquery,### Cleaning ###,ChoCheolKi.jquery.md,3
+13,6,https://github.com/ChoCheolKi/jquery,### Rebasing ###,ChoCheolKi.jquery.md,3
+14,6,https://github.com/ChoCheolKi/jquery,### Handling merge conflicts ###,ChoCheolKi.jquery.md,3
+15,6,https://github.com/ChoCheolKi/jquery,## [QUnit](http://api.qunitjs.com) Reference,ChoCheolKi.jquery.md,2
+16,6,https://github.com/ChoCheolKi/jquery,### Test methods ###,ChoCheolKi.jquery.md,3
+17,6,https://github.com/ChoCheolKi/jquery,### Test assertions ###,ChoCheolKi.jquery.md,3
+18,6,https://github.com/ChoCheolKi/jquery,## Test Suite Convenience Methods Reference (See [test/data/testinit.js](https://github.com/jquery/jquery/blob/master/test/data/testinit.js)),ChoCheolKi.jquery.md,2
+19,6,https://github.com/ChoCheolKi/jquery,### Returns an array of elements with the given IDs ###,ChoCheolKi.jquery.md,3
+20,6,https://github.com/ChoCheolKi/jquery,### Asserts that a selection matches the given IDs ###,ChoCheolKi.jquery.md,3
+21,6,https://github.com/ChoCheolKi/jquery,### Fires a native DOM event without going through jQuery ###,ChoCheolKi.jquery.md,3
+22,6,https://github.com/ChoCheolKi/jquery,### Add random number to url to stop caching ###,ChoCheolKi.jquery.md,3
+23,6,https://github.com/ChoCheolKi/jquery,### Load tests in an iframe ###,ChoCheolKi.jquery.md,3
+24,6,https://github.com/ChoCheolKi/jquery,### Load tests in an iframe (window.iframeCallback) ###,ChoCheolKi.jquery.md,3
+25,6,https://github.com/ChoCheolKi/jquery,## Questions?,ChoCheolKi.jquery.md,2
+1,7,https://github.com/cping/LGame,## Loon Game Engine (Java Game Framework),cping.LGame.md,2
+2,7,https://github.com/cping/LGame,## Loon,cping.LGame.md,2
+3,7,https://github.com/cping/LGame,## Features,cping.LGame.md,2
+4,7,https://github.com/cping/LGame,### Games Code Samples,cping.LGame.md,3
+5,7,https://github.com/cping/LGame,### Game Run the Example(JavaSE),cping.LGame.md,3
+6,7,https://github.com/cping/LGame,### Create a LGame project,cping.LGame.md,3
+7,7,https://github.com/cping/LGame,#### 关于LGame,cping.LGame.md,4
+1,8,https://github.com/CremBluRay/voodoo2d,# Voodoo 2D,CremBluRay.voodoo2d.md,1
+2,8,https://github.com/CremBluRay/voodoo2d,## Main Features,CremBluRay.voodoo2d.md,2
+3,8,https://github.com/CremBluRay/voodoo2d,##### INPUT,CremBluRay.voodoo2d.md,5
+4,8,https://github.com/CremBluRay/voodoo2d,##### COLLISION,CremBluRay.voodoo2d.md,5
+5,8,https://github.com/CremBluRay/voodoo2d,### Maven Dependency,CremBluRay.voodoo2d.md,3
+6,8,https://github.com/CremBluRay/voodoo2d,### CONTRIBUTING,CremBluRay.voodoo2d.md,3
+7,8,https://github.com/CremBluRay/voodoo2d,### TROUBLESHOOTING,CremBluRay.voodoo2d.md,3
+8,8,https://github.com/CremBluRay/voodoo2d,### Current Version,CremBluRay.voodoo2d.md,3
+9,8,https://github.com/CremBluRay/voodoo2d,### Areas for improvements / involvement,CremBluRay.voodoo2d.md,3
+1,9,https://github.com/DimiMikadze/create-social-network,# Create Social Network ![npm](https://img.shields.io/npm/dm/create-social-network) ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-green.svg),DimiMikadze.create-social-network.md,1
+2,9,https://github.com/DimiMikadze/create-social-network,## Features,DimiMikadze.create-social-network.md,2
+3,9,https://github.com/DimiMikadze/create-social-network,## Demo,DimiMikadze.create-social-network.md,2
+4,9,https://github.com/DimiMikadze/create-social-network,## Screenshots of the app,DimiMikadze.create-social-network.md,2
+5,9,https://github.com/DimiMikadze/create-social-network,## Quick Installation,DimiMikadze.create-social-network.md,2
+6,9,https://github.com/DimiMikadze/create-social-network,## Requirements and Configuration,DimiMikadze.create-social-network.md,2
+7,9,https://github.com/DimiMikadze/create-social-network,### Replacing Mongo URL,DimiMikadze.create-social-network.md,3
+8,9,https://github.com/DimiMikadze/create-social-network,### Replacing Cloudinary API Key,DimiMikadze.create-social-network.md,3
+9,9,https://github.com/DimiMikadze/create-social-network,### Mail Provider,DimiMikadze.create-social-network.md,3
+10,9,https://github.com/DimiMikadze/create-social-network,## Creating an App,DimiMikadze.create-social-network.md,2
+11,9,https://github.com/DimiMikadze/create-social-network,### npx,DimiMikadze.create-social-network.md,3
+12,9,https://github.com/DimiMikadze/create-social-network,### npm,DimiMikadze.create-social-network.md,3
+13,9,https://github.com/DimiMikadze/create-social-network,### Yarn,DimiMikadze.create-social-network.md,3
+14,9,https://github.com/DimiMikadze/create-social-network,## Deployment,DimiMikadze.create-social-network.md,2
+15,9,https://github.com/DimiMikadze/create-social-network,## Contributing,DimiMikadze.create-social-network.md,2
+16,9,https://github.com/DimiMikadze/create-social-network,## License,DimiMikadze.create-social-network.md,2
+1,10,https://github.com/flutter/plugins,# Flutter plugins,flutter.plugins.md,1
+2,10,https://github.com/flutter/plugins,## Issues,flutter.plugins.md,2
+3,10,https://github.com/flutter/plugins,## Contributing,flutter.plugins.md,2
+4,10,https://github.com/flutter/plugins,## Plugins,flutter.plugins.md,2
+1,11,https://github.com/InteractiveAdvertisingBureau/openrtb3-converter,## The new structure of OpenRTB 3.0,InteractiveAdvertisingBureau.openrtb3-converter.md,2
+2,11,https://github.com/InteractiveAdvertisingBureau/openrtb3-converter,## Problem:,InteractiveAdvertisingBureau.openrtb3-converter.md,2
+3,11,https://github.com/InteractiveAdvertisingBureau/openrtb3-converter,## Solution: the Library,InteractiveAdvertisingBureau.openrtb3-converter.md,2
+4,11,https://github.com/InteractiveAdvertisingBureau/openrtb3-converter,## How is the conversion done?,InteractiveAdvertisingBureau.openrtb3-converter.md,2
+5,11,https://github.com/InteractiveAdvertisingBureau/openrtb3-converter,## Specification versions supported,InteractiveAdvertisingBureau.openrtb3-converter.md,2
+6,11,https://github.com/InteractiveAdvertisingBureau/openrtb3-converter,## Documentation	,InteractiveAdvertisingBureau.openrtb3-converter.md,2
+1,12,https://github.com/jasonshaw/pixie,# Pixie Query Builder [![Build Status](https://travis-ci.org/usmanhalalit/pixie.png?branch=master)](https://travis-ci.org/usmanhalalit/pixie),jasonshaw.pixie.md,1
+2,12,https://github.com/jasonshaw/pixie,## Example,jasonshaw.pixie.md,2
+3,12,https://github.com/jasonshaw/pixie,## Query,jasonshaw.pixie.md,2
+4,12,https://github.com/jasonshaw/pixie,#### Some Use Cases,jasonshaw.pixie.md,4
+5,12,https://github.com/jasonshaw/pixie,#### Notes,jasonshaw.pixie.md,4
+1,13,https://github.com/langerhans/POGOProtos,# POGOProtos,langerhans.POGOProtos.md,1
+2,13,https://github.com/langerhans/POGOProtos,# Usage,langerhans.POGOProtos.md,1
+3,13,https://github.com/langerhans/POGOProtos,## Preparation,langerhans.POGOProtos.md,2
+4,13,https://github.com/langerhans/POGOProtos,### Windows,langerhans.POGOProtos.md,3
+5,13,https://github.com/langerhans/POGOProtos,### *nix,langerhans.POGOProtos.md,3
+6,13,https://github.com/langerhans/POGOProtos,### OS X,langerhans.POGOProtos.md,3
+7,13,https://github.com/langerhans/POGOProtos,## Compilation,langerhans.POGOProtos.md,2
+8,13,https://github.com/langerhans/POGOProtos,### Single file compilation (Recommended),langerhans.POGOProtos.md,3
+9,13,https://github.com/langerhans/POGOProtos,#### Command,langerhans.POGOProtos.md,4
+10,13,https://github.com/langerhans/POGOProtos,#### Flags,langerhans.POGOProtos.md,4
+11,13,https://github.com/langerhans/POGOProtos,##### Go,langerhans.POGOProtos.md,5
+12,13,https://github.com/langerhans/POGOProtos,### Recursive compilation,langerhans.POGOProtos.md,3
+13,13,https://github.com/langerhans/POGOProtos,#### Command,langerhans.POGOProtos.md,4
+14,13,https://github.com/langerhans/POGOProtos,#### Flags,langerhans.POGOProtos.md,4
+15,13,https://github.com/langerhans/POGOProtos,### Extra information,langerhans.POGOProtos.md,3
+16,13,https://github.com/langerhans/POGOProtos,# Libraries,langerhans.POGOProtos.md,1
+1,14,https://github.com/miohtama/py-geth,# PyGeth,miohtama.py-geth.md,1
+2,14,https://github.com/miohtama/py-geth,# Dependency,miohtama.py-geth.md,1
+3,14,https://github.com/miohtama/py-geth,# Quickstart,miohtama.py-geth.md,1
+4,14,https://github.com/miohtama/py-geth,# Aboutn `DevGethProcess`,miohtama.py-geth.md,1
+5,14,https://github.com/miohtama/py-geth,# Gotchas,miohtama.py-geth.md,1
+1,15,https://github.com/PacktPublishing/Learning-Python-Artificial-Intelligence-by-Example,# Learning Python Artificial Intelligence by Example [Video],PacktPublishing.Learning-Python-Artificial-Intelligence-by-Example.md,1
+2,15,https://github.com/PacktPublishing/Learning-Python-Artificial-Intelligence-by-Example,## About the Video Course,PacktPublishing.Learning-Python-Artificial-Intelligence-by-Example.md,2
+3,15,https://github.com/PacktPublishing/Learning-Python-Artificial-Intelligence-by-Example,## Instructions and Navigation,PacktPublishing.Learning-Python-Artificial-Intelligence-by-Example.md,2
+4,15,https://github.com/PacktPublishing/Learning-Python-Artificial-Intelligence-by-Example,### Assumed Knowledge,PacktPublishing.Learning-Python-Artificial-Intelligence-by-Example.md,3
+5,15,https://github.com/PacktPublishing/Learning-Python-Artificial-Intelligence-by-Example,### Technical Requirements,PacktPublishing.Learning-Python-Artificial-Intelligence-by-Example.md,3
+6,15,https://github.com/PacktPublishing/Learning-Python-Artificial-Intelligence-by-Example,### The following main libraries are required: ,PacktPublishing.Learning-Python-Artificial-Intelligence-by-Example.md,3
+7,15,https://github.com/PacktPublishing/Learning-Python-Artificial-Intelligence-by-Example,### Mac OSX:,PacktPublishing.Learning-Python-Artificial-Intelligence-by-Example.md,3
+8,15,https://github.com/PacktPublishing/Learning-Python-Artificial-Intelligence-by-Example,### Windows:,PacktPublishing.Learning-Python-Artificial-Intelligence-by-Example.md,3
+9,15,https://github.com/PacktPublishing/Learning-Python-Artificial-Intelligence-by-Example,### Google Cloud:,PacktPublishing.Learning-Python-Artificial-Intelligence-by-Example.md,3
+10,15,https://github.com/PacktPublishing/Learning-Python-Artificial-Intelligence-by-Example,### NOTE: The course relies heavily on Jupyter Notebooks so it is essential that you have access to a browser to view and run these.  ,PacktPublishing.Learning-Python-Artificial-Intelligence-by-Example.md,3
+11,15,https://github.com/PacktPublishing/Learning-Python-Artificial-Intelligence-by-Example,### OTHER INFORMATION,PacktPublishing.Learning-Python-Artificial-Intelligence-by-Example.md,3
+12,15,https://github.com/PacktPublishing/Learning-Python-Artificial-Intelligence-by-Example,## Related Products,PacktPublishing.Learning-Python-Artificial-Intelligence-by-Example.md,2
+1,16,https://github.com/prabhakar267/library-management-system,# Library Management System,prabhakar267.library-management-system.md,1
+2,16,https://github.com/prabhakar267/library-management-system,## Development,prabhakar267.library-management-system.md,2
+3,16,https://github.com/prabhakar267/library-management-system,## Contribute,prabhakar267.library-management-system.md,2
+4,16,https://github.com/prabhakar267/library-management-system,## Setup,prabhakar267.library-management-system.md,2
+5,16,https://github.com/prabhakar267/library-management-system,### Prerequisite: Install MySQL (for Linux),prabhakar267.library-management-system.md,3
+6,16,https://github.com/prabhakar267/library-management-system,### Unix / Linux / Mac Setup,prabhakar267.library-management-system.md,3
+7,16,https://github.com/prabhakar267/library-management-system,### Windows Setup,prabhakar267.library-management-system.md,3
+8,16,https://github.com/prabhakar267/library-management-system,## Features,prabhakar267.library-management-system.md,2
+1,17,https://github.com/program-repair/RepairThemAll_experiment,# RepairThemAll Experiment,program-repair.RepairThemAll_experiment.md,1
+2,17,https://github.com/program-repair/RepairThemAll_experiment,## Repository Structure,program-repair.RepairThemAll_experiment.md,2
+3,17,https://github.com/program-repair/RepairThemAll_experiment,## Patched Bugs,program-repair.RepairThemAll_experiment.md,2
+4,17,https://github.com/program-repair/RepairThemAll_experiment,## Chi-square Test of independence,program-repair.RepairThemAll_experiment.md,2
+1,18,https://github.com/puzzlepaint/camera_calibration,## Accurate geometric camera calibration ##,puzzlepaint.camera_calibration.md,2
+2,18,https://github.com/puzzlepaint/camera_calibration,## Overview ##,puzzlepaint.camera_calibration.md,2
+3,18,https://github.com/puzzlepaint/camera_calibration,## About ##,puzzlepaint.camera_calibration.md,2
+4,18,https://github.com/puzzlepaint/camera_calibration,## Building ##,puzzlepaint.camera_calibration.md,2
+5,18,https://github.com/puzzlepaint/camera_calibration,## How to use ##,puzzlepaint.camera_calibration.md,2
+6,18,https://github.com/puzzlepaint/camera_calibration,### Obtaining a calibration pattern ###,puzzlepaint.camera_calibration.md,3
+7,18,https://github.com/puzzlepaint/camera_calibration,### Calibrating a camera with live input ###,puzzlepaint.camera_calibration.md,3
+8,18,https://github.com/puzzlepaint/camera_calibration,### Calibrating a camera from images in a folder ###,puzzlepaint.camera_calibration.md,3
+9,18,https://github.com/puzzlepaint/camera_calibration,#### Feature extraction ####,puzzlepaint.camera_calibration.md,4
+10,18,https://github.com/puzzlepaint/camera_calibration,#### Camera calibration ####,puzzlepaint.camera_calibration.md,4
+11,18,https://github.com/puzzlepaint/camera_calibration,#### Refining existing calibrations ####,puzzlepaint.camera_calibration.md,4
+12,18,https://github.com/puzzlepaint/camera_calibration,#### Handling large datasets and many variables ####,puzzlepaint.camera_calibration.md,4
+13,18,https://github.com/puzzlepaint/camera_calibration,### Calibrating a stereo camera and computing depth images ###,puzzlepaint.camera_calibration.md,3
+14,18,https://github.com/puzzlepaint/camera_calibration,### Which camera model to choose? ###,puzzlepaint.camera_calibration.md,3
+15,18,https://github.com/puzzlepaint/camera_calibration,### How to obtain and verify good calibration results ###,puzzlepaint.camera_calibration.md,3
+16,18,https://github.com/puzzlepaint/camera_calibration,### How to use generic camera models in your application ###,puzzlepaint.camera_calibration.md,3
+17,18,https://github.com/puzzlepaint/camera_calibration,### Reference on calibration report visualizations ###,puzzlepaint.camera_calibration.md,3
+1,19,https://github.com/releaz/sage,# [Sage](https://roots.io/sage/),releaz.sage.md,1
+2,19,https://github.com/releaz/sage,## Features,releaz.sage.md,2
+3,19,https://github.com/releaz/sage,## Requirements,releaz.sage.md,2
+4,19,https://github.com/releaz/sage,## Theme installation,releaz.sage.md,2
+5,19,https://github.com/releaz/sage,## Theme structure,releaz.sage.md,2
+6,19,https://github.com/releaz/sage,## Theme setup,releaz.sage.md,2
+7,19,https://github.com/releaz/sage,## Theme development,releaz.sage.md,2
+8,19,https://github.com/releaz/sage,### Install dependencies,releaz.sage.md,3
+9,19,https://github.com/releaz/sage,### Build commands,releaz.sage.md,3
+10,19,https://github.com/releaz/sage,#### Additional commands,releaz.sage.md,4
+11,19,https://github.com/releaz/sage,### Using BrowserSync,releaz.sage.md,3
+12,19,https://github.com/releaz/sage,## Documentation,releaz.sage.md,2
+13,19,https://github.com/releaz/sage,## Contributing,releaz.sage.md,2
+14,19,https://github.com/releaz/sage,## Community,releaz.sage.md,2
+1,20,https://github.com/SHI-Labs/3D-Point-Cloud-Learning,# Deep Learning for 3D Point Cloud Understanding: A Survey,SHI-Labs.3D-Point-Cloud-Learning.md,1
+2,20,https://github.com/SHI-Labs/3D-Point-Cloud-Learning,## Content,SHI-Labs.3D-Point-Cloud-Learning.md,2
+3,20,https://github.com/SHI-Labs/3D-Point-Cloud-Learning,## Datasets,SHI-Labs.3D-Point-Cloud-Learning.md,2
+4,20,https://github.com/SHI-Labs/3D-Point-Cloud-Learning,## Metrics,SHI-Labs.3D-Point-Cloud-Learning.md,2
+5,20,https://github.com/SHI-Labs/3D-Point-Cloud-Learning,## Papers (up to ECCV 2020),SHI-Labs.3D-Point-Cloud-Learning.md,2
+6,20,https://github.com/SHI-Labs/3D-Point-Cloud-Learning,### 3D Object Classification,SHI-Labs.3D-Point-Cloud-Learning.md,3
+7,20,https://github.com/SHI-Labs/3D-Point-Cloud-Learning,#### Projection-based classification,SHI-Labs.3D-Point-Cloud-Learning.md,4
+8,20,https://github.com/SHI-Labs/3D-Point-Cloud-Learning,#### Point-based classification,SHI-Labs.3D-Point-Cloud-Learning.md,4
+9,20,https://github.com/SHI-Labs/3D-Point-Cloud-Learning,### 3D Segmentation,SHI-Labs.3D-Point-Cloud-Learning.md,3
+10,20,https://github.com/SHI-Labs/3D-Point-Cloud-Learning,#### Semantic segmentation,SHI-Labs.3D-Point-Cloud-Learning.md,4
+11,20,https://github.com/SHI-Labs/3D-Point-Cloud-Learning,#### Instance segmentation,SHI-Labs.3D-Point-Cloud-Learning.md,4
+12,20,https://github.com/SHI-Labs/3D-Point-Cloud-Learning,#### Joint training,SHI-Labs.3D-Point-Cloud-Learning.md,4
+13,20,https://github.com/SHI-Labs/3D-Point-Cloud-Learning,### 3D Object Detection,SHI-Labs.3D-Point-Cloud-Learning.md,3
+14,20,https://github.com/SHI-Labs/3D-Point-Cloud-Learning,#### Projection-based detection,SHI-Labs.3D-Point-Cloud-Learning.md,4
+15,20,https://github.com/SHI-Labs/3D-Point-Cloud-Learning,#### Point-based detection,SHI-Labs.3D-Point-Cloud-Learning.md,4
+16,20,https://github.com/SHI-Labs/3D-Point-Cloud-Learning,#### Multi-view fusion,SHI-Labs.3D-Point-Cloud-Learning.md,4
+17,20,https://github.com/SHI-Labs/3D-Point-Cloud-Learning,### 3D Object Tracking,SHI-Labs.3D-Point-Cloud-Learning.md,3
+18,20,https://github.com/SHI-Labs/3D-Point-Cloud-Learning,### 3D Scene Flow Estimation,SHI-Labs.3D-Point-Cloud-Learning.md,3
+19,20,https://github.com/SHI-Labs/3D-Point-Cloud-Learning,### 3D Point Registration and Matching,SHI-Labs.3D-Point-Cloud-Learning.md,3
+20,20,https://github.com/SHI-Labs/3D-Point-Cloud-Learning,### Point Cloud Augmentation and Completion,SHI-Labs.3D-Point-Cloud-Learning.md,3
+21,20,https://github.com/SHI-Labs/3D-Point-Cloud-Learning,#### Discriminative methods,SHI-Labs.3D-Point-Cloud-Learning.md,4
+22,20,https://github.com/SHI-Labs/3D-Point-Cloud-Learning,#### Generative methods,SHI-Labs.3D-Point-Cloud-Learning.md,4
+1,21,https://github.com/ShiqiYu/libfacedetection,# libfacedetection,ShiqiYu.libfacedetection.md,1
+2,21,https://github.com/ShiqiYu/libfacedetection,## How to use the code,ShiqiYu.libfacedetection.md,2
+3,21,https://github.com/ShiqiYu/libfacedetection,## CNN-based Face Detection on Windows,ShiqiYu.libfacedetection.md,2
+4,21,https://github.com/ShiqiYu/libfacedetection,## CNN-based Face Detection on ARM Linux (Raspberry Pi 3 B+),ShiqiYu.libfacedetection.md,2
+5,21,https://github.com/ShiqiYu/libfacedetection,## Performance on WIDER Face,ShiqiYu.libfacedetection.md,2
+6,21,https://github.com/ShiqiYu/libfacedetection,## Author,ShiqiYu.libfacedetection.md,2
+7,21,https://github.com/ShiqiYu/libfacedetection,## Contributors,ShiqiYu.libfacedetection.md,2
+8,21,https://github.com/ShiqiYu/libfacedetection,## Acknowledgment,ShiqiYu.libfacedetection.md,2
+9,21,https://github.com/ShiqiYu/libfacedetection,## Citation,ShiqiYu.libfacedetection.md,2
+1,22,https://github.com/Skar0/fire-detection,# Forest fire detection using CNN,Skar0.fire-detection.md,1
+2,22,https://github.com/Skar0/fire-detection,## Datasets,Skar0.fire-detection.md,2
+3,22,https://github.com/Skar0/fire-detection,#### Provided dataset,Skar0.fire-detection.md,4
+4,22,https://github.com/Skar0/fire-detection,#### Augmenting the dataset,Skar0.fire-detection.md,4
+5,22,https://github.com/Skar0/fire-detection,## Project structure,Skar0.fire-detection.md,2
+6,22,https://github.com/Skar0/fire-detection,## Usage,Skar0.fire-detection.md,2
+7,22,https://github.com/Skar0/fire-detection,#### Requirements:,Skar0.fire-detection.md,4
+8,22,https://github.com/Skar0/fire-detection,#### Launcher,Skar0.fire-detection.md,4
+9,22,https://github.com/Skar0/fire-detection,##### Training,Skar0.fire-detection.md,5
+10,22,https://github.com/Skar0/fire-detection,##### Fine tuning,Skar0.fire-detection.md,5
+11,22,https://github.com/Skar0/fire-detection,##### Perform a prediction,Skar0.fire-detection.md,5
+12,22,https://github.com/Skar0/fire-detection,##### Extract difficult examples,Skar0.fire-detection.md,5
+13,22,https://github.com/Skar0/fire-detection,##### Metrics on a test set,Skar0.fire-detection.md,5
+14,22,https://github.com/Skar0/fire-detection,##### Video annotation,Skar0.fire-detection.md,5
+15,22,https://github.com/Skar0/fire-detection,## Results,Skar0.fire-detection.md,2
+16,22,https://github.com/Skar0/fire-detection,#### Trained model file,Skar0.fire-detection.md,4
+17,22,https://github.com/Skar0/fire-detection,#### Performance,Skar0.fire-detection.md,4
+18,22,https://github.com/Skar0/fire-detection,#### Video examples,Skar0.fire-detection.md,4
+1,23,https://github.com/zachhardesty7/tamper-monkey-scripts-collection,# Tampermonkey Scripts Collection,zachhardesty7.tamper-monkey-scripts-collection.md,1
+2,23,https://github.com/zachhardesty7/tamper-monkey-scripts-collection,## Description,zachhardesty7.tamper-monkey-scripts-collection.md,2
+3,23,https://github.com/zachhardesty7/tamper-monkey-scripts-collection,## Getting Started,zachhardesty7.tamper-monkey-scripts-collection.md,2
+4,23,https://github.com/zachhardesty7/tamper-monkey-scripts-collection,### Dependencies,zachhardesty7.tamper-monkey-scripts-collection.md,3
+5,23,https://github.com/zachhardesty7/tamper-monkey-scripts-collection,### Installation,zachhardesty7.tamper-monkey-scripts-collection.md,3
+6,23,https://github.com/zachhardesty7/tamper-monkey-scripts-collection,### Execution,zachhardesty7.tamper-monkey-scripts-collection.md,3
+7,23,https://github.com/zachhardesty7/tamper-monkey-scripts-collection,## Usage,zachhardesty7.tamper-monkey-scripts-collection.md,2
+8,23,https://github.com/zachhardesty7/tamper-monkey-scripts-collection,## Known Issues,zachhardesty7.tamper-monkey-scripts-collection.md,2
+9,23,https://github.com/zachhardesty7/tamper-monkey-scripts-collection,## Contributing,zachhardesty7.tamper-monkey-scripts-collection.md,2
+10,23,https://github.com/zachhardesty7/tamper-monkey-scripts-collection,## License,zachhardesty7.tamper-monkey-scripts-collection.md,2
+11,23,https://github.com/zachhardesty7/tamper-monkey-scripts-collection,## Acknowledgements,zachhardesty7.tamper-monkey-scripts-collection.md,2
